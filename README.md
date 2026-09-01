@@ -60,6 +60,7 @@ All outputs (CSV/JSON result tables and PDF/PNG figures) are written to a `noteb
 | `primitive_cohomology_rank.csv` | Proposition 2 rank-test residuals (Figure 6a) |
 | `mixing_finite_sample_certificate.csv`, `mom_finite_sample_certificate.csv` | Theorem 6–7 finite-sample coefficient radii (Figure 7, Section 3.5 restart/mixing audits) |
 | `three_front_validation_summary.json`, `higher_order_validation_summary.json` | Section 3.5 non-manufactured two-state benchmark |
+| `corollary3_bounded_design_diagnostic.json` | Section 3.4 diagnostic: bounded-design empirical-Bernstein audit attempt on the raw 24-dimensional joint LSTD parametrization (reported as an honest uninformative outcome, per Theorem 5's own prescription; see the "Bounded-design empirical-Bernstein diagnostic" cell) |
 
 ## Reproducibility
 
