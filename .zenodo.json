@@ -1,0 +1,23 @@
+{
+  "title": "Direct Potential-q Learning in Entropy-Regularized Stochastic Differential Games: Simulation Code",
+  "description": "Simulation code accompanying the paper \"Direct Potential-q Learning in Entropy-Regularized Stochastic Differential Games\" (Zihan Chen, Xin Zhang). Contains the notebook that generates every simulated dataset, table, and figure reported in the paper.",
+  "creators": [
+    {
+      "name": "Chen, Zihan",
+      "affiliation": "Southeast University"
+    },
+    {
+      "name": "Zhang, Xin",
+      "affiliation": "Southeast University"
+    }
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "keywords": [
+    "continuous-time reinforcement learning",
+    "entropy regularization",
+    "stochastic differential games",
+    "potential-q game",
+    "soft Nash equilibrium"
+  ]
+}
